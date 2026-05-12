@@ -69,7 +69,7 @@ body {
   font-size: 48px;
   line-height: 1.2;
   margin-bottom: 20px;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .hero h1 span {
